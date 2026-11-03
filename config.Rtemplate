@@ -1,0 +1,10 @@
+######################## PROJECT: exracting and wrangling Nico Shneider's oak gall wasp data
+# Author: Julian Wittische (Musée National d'Histoire Naturelle Luxembourg)
+# Request: Julian Wittische/Nico Schneider
+# Start: Fall 2026
+# Data: Nico Schneider
+# Script objective : local configuration file
+
+# Just put the path to the data folder for this project here (includes the Word documents from the collaborator) 
+
+DATAPATH <- "XXX:/GINGERPOWER/DATA/"
